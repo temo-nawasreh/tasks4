@@ -17,6 +17,7 @@
     width: 40%;
     padding: 10px;
     border-color: aqua;
+    margin-bottom: 20px;
 }
 
 input:hover
@@ -48,4 +49,15 @@ input:hover
 .head span{
     display: flex;
     gap: 30px; 
+}
+
+.submit
+{
+    display: flex;
+    gap: 20px;
+
+}
+
+.submit{
+    width:400px;
 }
